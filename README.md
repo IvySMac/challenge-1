@@ -1,6 +1,6 @@
-#Challenge 1
+# Challenge 1
 
-##Ivy McCurdy
+## Ivy McCurdy
 
 ## User Story
 
