@@ -1,6 +1,8 @@
 # Challenge 1
 
-## Ivy McCurdy
+## Description
+
+A marketing agency has a great start with their website, but it could use a little more organization and accessibility. I went line by line to see what I could do to tidy things up using the lessons that I have learned. 
 
 ## User Story
 
