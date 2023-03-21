@@ -4,6 +4,14 @@
 
 A marketing agency has a great start with their website, but it could use a little more organization and accessibility. I went line by line to see what I could do to tidy things up using the lessons that I have learned. 
 
+## Usage
+
+![a marketing website with the header Horiseon on the top left and navigation links on the far right. Below it shows four people in a meeting room.](assets/images/screenshot.jpg)
+
+While the look of the site remains the same, you can inspect the elements to see the finished organization. This can be used for reference in the future. 
+
+live site: https://ivysmac.github.io/challenge-1
+
 ## User Story
 
 ```
