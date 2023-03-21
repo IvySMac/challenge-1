@@ -6,7 +6,7 @@ A marketing agency has a great start with their website, but it could use a litt
 
 ## Usage
 
-![a marketing website with the header Horiseon on the top left and navigation links on the far right. Below it shows four people in a meeting room.](./assets/images/screenshot.jpg)
+![a marketing website with the header Horiseon on the top left and navigation links on the far right. Below it shows four people in a meeting room.](./assets/images/screenshot.png)
 
 While the look of the site remains the same, you can inspect the elements to see the finished organization. This can be used for reference in the future. 
 
