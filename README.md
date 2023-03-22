@@ -35,3 +35,6 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Credits
+
+Starter code was provided by KU Bootcamp. This is used strictly for educational purposes. 
