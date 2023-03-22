@@ -10,7 +10,7 @@ A marketing agency has a great start with their website, but it could use a litt
 
 While the look of the site remains the same, you can inspect the elements to see the finished organization. This can be used for reference in the future. 
 
-live site: https://ivysmac.github.io/challenge-1
+<a href="https://ivysmac.github.io/challenge-1">Live Site</a>
 
 ## User Story
 
